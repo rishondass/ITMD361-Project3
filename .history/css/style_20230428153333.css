@@ -75,9 +75,5 @@ To be added
 
 
 #map {
-  display: flex;
-  justify-items: center;
-  height: 800px;
-  width: 100%;
-  margin: 10px
+  height: 400px%;
 }
