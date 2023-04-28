@@ -92,11 +92,12 @@ To be added
   }
 }
 
-@media screen and (max-width:820px) {
+@media screen and (max-width:390px) {
   .container-objects{
-    background-color: rgb(212, 0, 255);
+    background-color: red;
     color: white;
     text-align: center;
-    
+    padding: 12px;
+    height: 500px;
   }
 }

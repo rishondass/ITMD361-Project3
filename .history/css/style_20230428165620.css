@@ -89,14 +89,6 @@ To be added
     text-align: center;
     padding: 12px;
     height: 500px;
-  }
-}
 
-@media screen and (max-width:820px) {
-  .container-objects{
-    background-color: rgb(212, 0, 255);
-    color: white;
-    text-align: center;
-    
   }
 }
