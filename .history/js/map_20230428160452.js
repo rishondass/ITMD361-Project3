@@ -32,9 +32,8 @@ async function initMap() {
     fillOpacity: 0.35,
     map,
     center: position,
-    radius: 1000,
+    radius: 600,
   });
-
 }
 
 initMap();

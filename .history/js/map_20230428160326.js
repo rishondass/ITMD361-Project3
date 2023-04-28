@@ -25,16 +25,15 @@ async function initMap() {
   });
 
   const circle = new google.maps.Circle({
-    strokeColor: "#64008E",
+    strokeColor: "#FF0000",
     strokeOpacity: 0.8,
     strokeWeight: 2,
-    fillColor: "#B400FF",
+    fillColor: "#FF0000",
     fillOpacity: 0.35,
     map,
     center: position,
-    radius: 1000,
+    radius: 300,
   });
-
 }
 
 initMap();

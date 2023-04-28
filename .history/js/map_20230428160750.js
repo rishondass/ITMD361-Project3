@@ -35,6 +35,8 @@ async function initMap() {
     radius: 1000,
   });
 
+
+  const drawingManager = 
 }
 
 initMap();

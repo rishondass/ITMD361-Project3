@@ -23,18 +23,6 @@ async function initMap() {
     position: position,
     title: "Jacakalope Coffe & Tea House",
   });
-
-  const circle = new google.maps.Circle({
-    strokeColor: "#64008E",
-    strokeOpacity: 0.8,
-    strokeWeight: 2,
-    fillColor: "#B400FF",
-    fillOpacity: 0.35,
-    map,
-    center: position,
-    radius: 1000,
-  });
-
 }
 
 initMap();

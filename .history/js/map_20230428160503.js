@@ -34,7 +34,6 @@ async function initMap() {
     center: position,
     radius: 1000,
   });
-
 }
 
 initMap();
