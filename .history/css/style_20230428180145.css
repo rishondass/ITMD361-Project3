@@ -102,7 +102,6 @@ To be added
   }
 }
 
-#secretdiv{
-    display: flex;
-    justify-content: center;
+#secretbutton{
+    background-color:red;
 }
