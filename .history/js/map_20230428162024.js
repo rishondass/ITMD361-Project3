@@ -42,8 +42,9 @@ async function initMap() {
     '<h1 id="firstHeading" class="firstHeading">Jacakalope Coffe & Tea House</h1>' +
     '<div id="bodyContent">' +
     "<p>Casual, colorful spot serving coffee drinks, loose-leaf tea, pastries, wraps & panini.</p>" +
-    '<p><a href="https://www.jackalopecoffee.com/">Website</a>, <a href="https://www.instagram.com/jackalopecoffee/?igshid=16mn4hiaesib6">' +
-    "Instagram</a> </p>" +
+    '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">' +
+    "https://en.wikipedia.org/w/index.php?title=Uluru</a> " +
+    "(last visited June 22, 2009).</p>" +
     "</div>" +
     "</div>";
 
